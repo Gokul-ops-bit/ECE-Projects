@@ -1,0 +1,5 @@
+THIS REPO CONTAINS CODE FOR THE SEMI AUTONOMOUS SORTING ROBOT PROJECT 
+
+Systems include: Wireless controller code, and semi-autonomous Rover code.
+
+Code in this repo will allow the rover to drive via a remote controller, using one ESP32 on the rover and one ESP32 on the controller. 
